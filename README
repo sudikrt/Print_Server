@@ -1,0 +1,4 @@
+Print Server :
+	An easy effort made to show the simple demo of print server. The client is need to connect to the server.After connecting to server he can able to send the documents (here i made it to select .doc and .txt file) to server. In server it will accept the print request and put it in the list. As soon as printer is free then the document in the list will be printed and acknowledgment will sent back to client.
+
+If the printer (s/w) was not installed then it will shows the error. 
